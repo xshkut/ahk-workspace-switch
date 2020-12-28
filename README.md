@@ -2,6 +2,7 @@
 
 1. Download [AutoHotKey](https://www.autohotkey.com)
 2. Run (or compile) `workspace-ctl.ahk`
+3. For better experience, disable system animations
 
 # How to use
 
